@@ -1,6 +1,6 @@
 const DIFFICULTIES = {
-  easy: { pairs: 8, time: 40 },
-  medium: { pairs: 12, time: 80 },
+  easy: { pairs: 6, time: 30 },
+  medium: { pairs: 12, time: 60 },
   hard: { pairs: 16, time: 120 },
 };
 

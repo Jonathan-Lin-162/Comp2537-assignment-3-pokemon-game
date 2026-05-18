@@ -5,16 +5,16 @@ Self-graded Assignment 3 Checklist
     Criteria
     ========
 
-/10 marks
+10/10 marks
 [x] Pokemon cards are randomized each game.
 
-/2 marks
+2/2 marks
 [x] Cards flip when clicked.
 [x] If the user clicks on the same card twice, do nothing.
 [x] If the user clicks on a card that is already matched, do nothing.
 [x] If the user clicks on a card while two cards are already flipped, do nothing.
 
-/7 marks
+7/7 marks
 [x] Winning Event is implemented. If user clicks on all the cards, display a winning message.
 [x] Header is showing the number of clicks the user has made, and the number of pairs left, number of pairs matched, total number of pairs, and game timer.
 [x] Start and Reset buttons are added to the game.
@@ -22,7 +22,7 @@ Self-graded Assignment 3 Checklist
 [x] Themes are added to the game.
 [x] Power-up logic is added to the game.
 
-/10 marks
+10/10 marks
 [x] The website has an appealing, professional and consistent look.
 
 Total Grade:
