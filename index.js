@@ -1,5 +1,5 @@
 const DIFFICULTIES = {
-  easy: { pairs: 6, time: 30 },
+  easy: { pairs: 6, time: 40 },
   medium: { pairs: 12, time: 60 },
   hard: { pairs: 16, time: 120 },
 };
